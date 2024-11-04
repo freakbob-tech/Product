@@ -1,7 +1,19 @@
 * {
-    background-color: black;
+    background-color: #8D818C;
 }
+
 body {
-    color: azure;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #E9EBF8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+img {
+    text-align: right;
+    padding-right: 10px 10px 10px 10px;
+    float: right;
 }
