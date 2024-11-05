@@ -13,10 +13,18 @@ h1 {
 }
 
 p {
+    border: 3px #E9EBF8 solid;
     padding: 10px 10px 10px 10px;
 }
 
-img {
+.pic1 {
     padding-right: 10px 10px 10px 10px;
     float: right;
+}
+
+.pic2 {
+    padding-right: 10px 10px 10px 10px;
+    padding-top: 7em;
+    padding-left: 7em;
+    float: left;
 }
